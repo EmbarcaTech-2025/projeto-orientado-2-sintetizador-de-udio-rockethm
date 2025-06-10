@@ -1,3 +1,15 @@
+# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+
+Autor: **Andre de Oliveira Melo**
+
+Curso: Residência Tecnológica em Sistemas Embarcados
+
+Instituição: EmbarcaTech - HBr
+
+Brasilia, junho de 2025
+
+---
+
 # Sintetizador de Áudio para Raspberry Pi Pico
 
 Este projeto implementa um sintetizador de áudio para o Raspberry Pi Pico, capaz de gravar e reproduzir áudio utilizando um microfone e dois buzzers para saída estéreo. O sistema também inclui um display OLED para feedback visual e LEDs para indicação de status.
@@ -83,3 +95,8 @@ Este projeto utiliza o SDK do Raspberry Pi Pico com CMake para compilação:
 
 - Pico SDK
 - Biblioteca SSD1306 para display OLED
+
+---
+
+## 📜 Licença
+GNU GPL-3.0.
